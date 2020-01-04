@@ -1,4 +1,4 @@
-#Nier Automata Character Quotes Page
+## Nier Automata Character Quotes Page
 
 This project was made using HTML, CSS, Bootstrap and Googles Font API's. This site is based on a Video Game named Nier Automata by Square Enix. This site is responsive and used boostrap elements to speed up the process of developing a site than using basic HTML. It has quotes from various characters from Nier Automata with an image slider effect for the images in the beginning.
 
