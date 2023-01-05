@@ -3,6 +3,8 @@ body
     margin: 0%;
     padding: 0%;
     background-color: rgba(0, 0, 0, 0.938);
+    width: 100%;
+    height: auto;
 }
 /* navbar class to link to html */
 .navbar 
@@ -59,3 +61,8 @@ main
         display: none;
     }
 }
+
+img {
+    width: 100%;
+    height: auto;
+  }
