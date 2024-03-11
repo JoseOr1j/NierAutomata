@@ -66,3 +66,33 @@ img {
     width: 100%;
     height: auto;
   }
+
+  .card-img-top
+  {
+    width: 100%;
+    height: auto;
+    transform:scale(0.5);
+
+
+  }
+
+  @media screen and (min-width: 1000px)
+  {
+  .card-text, text-light
+  {
+    text-align-last: auto;
+  }
+}
+
+
+.card-text, text-light
+  {
+    text-align-last: auto;
+    text-align: justify;
+    text-align: center;
+  }
+
+  .card-title, text-white
+  {
+    text-align: center;
+  }
